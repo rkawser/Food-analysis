@@ -1,0 +1,123 @@
+@import url('https://fonts.googleapis.com/css2?family=Dancing+Script:wght@400;500;600;700&display=swap');
+
+.home-banner{
+    background-color:#e08c1669;
+
+    border-radius: 0px 0px  10px 10px;
+}
+
+.banner-style{
+    height: 600px;
+    text-align: center;
+    text-align: justify;
+}
+
+.banner-text{
+    
+    margin:0 ,auto ;
+}
+
+.banner-text h1 {
+    color: #2a435d;
+    font-size: 60px;
+    font-weight: 900;
+  
+}
+
+.banner-text h5{
+    font-family: 'Dancing Script', cursive;
+    /* font-family: cursive; */
+    color: #cc3333;
+    font-size: 30px;
+    font-weight: 700;
+    line-height:0.6;
+    margin-top: 10px;
+    
+}
+
+.banner-text h4{
+    margin: 40px 0;
+    font-family: "Poppins", sans-serif;
+    text-transform: capitalize;
+    line-height: 1.2;
+    color: #2a435d;
+    font-size: 27px;
+    font-weight: 700;
+}
+
+/*banner-button */
+
+.banner-btn{
+    cursor: pointer;
+    margin-right: 50px;
+    padding-top: 15px;
+    padding-right: 40px;
+    padding-bottom: 15px;
+    padding-left: 40px;
+
+    color: #ffffff;
+    font-size: 18px;
+    font-family: "Poppins", sans-serif;
+    font-weight: 500;
+    text-transform: capitalize;
+    display: inline-block;
+    border: 1px solid transparent;
+    border-radius: 7px;
+    background-color: #cc3333;
+    transition: 0.6s;
+}
+
+
+.banner-btn:hover{
+    background-color: aliceblue;
+    color: #cc3333;
+    border:1px solid #cc3333;
+}
+
+#extra-color{
+    color: #cc3333;
+    font-size: 60px;
+    font-weight: 900;
+}
+
+#price-title{
+    font-family: "Poppins", sans-serif;
+    text-transform: capitalize;
+    line-height: 1.2;
+    margin-bottom: 0;
+    color: #2a435d;
+    font-size: 24px;
+    font-weight: 700;
+}
+
+#banner-price{
+    color: #cc3333;
+    font-size: 24px;
+    font-weight: 700;
+}
+
+/* review-btn */
+
+.review-btn{
+    cursor: pointer;
+    margin-right: 50px;
+    padding-top: 15px;
+    padding-right: 40px;
+    padding-bottom: 15px;
+    padding-left: 40px;
+
+    color: #ffffff;
+    font-size:15px;
+    font-family: "Poppins", sans-serif;
+    font-weight: 500;
+    text-transform: capitalize;
+    display: inline-block;
+    border: 1px solid transparent;
+    border-radius: 7px;
+    background-color: #cc3333;
+    transition: 0.6s;
+}
+
+.review-btn:hover{
+
+}
